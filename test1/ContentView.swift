@@ -15,7 +15,9 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
 
 
-            Text("testcommit222, world!")
+
+            Text("ffffff!")
+
 
         }
         .padding()
